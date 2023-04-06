@@ -22,7 +22,7 @@ button {
     font-weight: 550;
     letter-spacing: 2px;
 }
-#first {
+.first {
     position: absolute;
     right: 300px;
     bottom: 280px;
@@ -31,7 +31,7 @@ button {
     text-align: center;
     font-weight: 520;
 }
-#second {
+.second {
     position: absolute;
     right: 330px;
     bottom: 250px;
