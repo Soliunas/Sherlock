@@ -19,6 +19,8 @@ button {
     width: 180px;
     height: 70px;
     text-transform: uppercase;
+    font-weight: 550;
+    letter-spacing: 2px;
 }
 #first {
     position: absolute;
